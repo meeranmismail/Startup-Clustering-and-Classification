@@ -1,0 +1,7 @@
+clustering
+k-means
+dimensionality reduction
+topic modeling
+unsupervised learning
+naive bayes
+classification
